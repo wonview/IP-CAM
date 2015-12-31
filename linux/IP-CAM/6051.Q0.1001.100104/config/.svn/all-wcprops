@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/config
+END
+hostapd_build_config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/config/hostapd_build_config
+END
+supplicant_build_config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/config/supplicant_build_config
+END
+kernel_config_nand_ssv6051_netfilter
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/config/kernel_config_nand_ssv6051_netfilter
+END

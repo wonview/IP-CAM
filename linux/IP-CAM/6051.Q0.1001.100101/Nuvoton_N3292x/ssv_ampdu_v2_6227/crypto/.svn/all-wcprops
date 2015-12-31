@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/crypto
+END
+sha1_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/crypto/sha1_glue.c
+END
+sha1-armv4-large.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/crypto/sha1-armv4-large.S
+END
+aes-armv4.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/crypto/aes-armv4.S
+END
+aes_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/crypto/aes_glue.c
+END

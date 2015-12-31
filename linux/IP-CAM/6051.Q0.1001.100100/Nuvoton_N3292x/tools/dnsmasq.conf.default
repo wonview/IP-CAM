@@ -1,0 +1,5 @@
+resolv-file=/tmp/resolv.dnsmasq
+dhcp-leasefile=/tmp/dnsmasq.leases
+dhcp-lease-max=50
+dhcp-authoritative
+stop-dns-rebind

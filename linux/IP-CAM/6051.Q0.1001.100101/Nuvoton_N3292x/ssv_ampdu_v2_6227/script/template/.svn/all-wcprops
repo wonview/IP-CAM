@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/template
+END
+hostapd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/template/hostapd.conf
+END
+load_dhcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/template/load_dhcp.sh
+END

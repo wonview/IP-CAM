@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools
+END
+dnsmasq.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/dnsmasq.conf.default
+END
+hostapd_ssv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/hostapd_ssv
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/wpa_supplicant.conf
+END
+network_config
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/network_config
+END
+wifi_sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/wifi_sta.sh
+END
+testFtp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/testFtp.sh
+END
+hostapd_cli_ssv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/hostapd_cli_ssv
+END
+wpa_supplicant_ssv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/wpa_supplicant_ssv
+END
+iperf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/iperf
+END
+dnsmasq
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/dnsmasq
+END
+wifi_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/wifi_ap.sh
+END
+hostapd.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/hostapd.conf.default
+END
+wpa_cli_ssv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/tools/wpa_cli_ssv
+END

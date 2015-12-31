@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/Makefile
+END
+wpa_hostapd.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/wpa_hostapd.tar.gz
+END
+generic_wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/generic_wlan.c
+END
+customer.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/customer.cfg
+END
+wifimac
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100102/Nuvoton_N3292x/wifimac
+END

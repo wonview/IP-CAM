@@ -1,0 +1,6 @@
+#!/bin/sh
+truncate -s 0 /var/log/kern.log
+truncate -s 0 /var/log/syslog
+rm -rf /var/log/*.1
+rm -rf /var/log/*.gz
+rm -rf /var/log/*~

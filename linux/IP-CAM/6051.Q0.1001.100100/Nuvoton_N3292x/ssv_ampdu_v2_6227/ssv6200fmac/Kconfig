@@ -1,0 +1,28 @@
+config SSV6200_FMAC
+	tristate "South Silicon Valley 6200 Cabrio WLAN driver support"
+	depends on CFG80211
+	select WIRELESS_EXT
+	select WEXT_SPY
+	select LIB80211
+	select FW_LOADER
+	---help---
+	  A library for South Silicon Valley Cabrio 6200 devices.
+
+config SSV6200_SDIO
+	tristate "South Silicon Valley Cabrio 6200 SDIO 802.11b/g/n"
+	depends on SSV6200_FMAC && MMC
+	---help---
+	  A driver for South Silicon Valley 6200 SDIO devices.
+
+config SSV6200_SPI
+	tristate "South Silicon Valley Cabrio 6200 SPI 802.11b/g/n"
+	depends on LIBERTAS && SPI
+	---help---
+	  A driver for South Silicon Valley 6200 SPI devices.
+
+config SSV6200_DEBUG
+	bool "Enable full debugging output in the SSV6200_FMAC module."
+	depends on SSV6200_FMAC
+	---help---
+	  Debugging support.
+

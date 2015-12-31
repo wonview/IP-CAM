@@ -1,0 +1,7 @@
+#!/bin/sh
+log_file="kern-`date +%H:%M:%S`.log"
+
+./clearlog
+iperf -N -c 192.168.1.116 -d | tee $log_file
+cat /var/log/kern.log >> $log_file
+echo "Log file is $log_file"

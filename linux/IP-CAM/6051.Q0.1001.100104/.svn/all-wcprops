@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104
+END
+wpa_supplicant
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/wpa_supplicant
+END
+QMS-FR-040-0001-_Internal AE Firmware Release.xlsx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/QMS-FR-040-0001-_Internal%20AE%20Firmware%20Release.xlsx
+END
+wpa_cli
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/wpa_cli
+END
+ssv6051.ko
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/ssv6051.ko
+END
+ssv6200-sw.bin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/ssv6200-sw.bin
+END
+hostapd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100104/hostapd
+END

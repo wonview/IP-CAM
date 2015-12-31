@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script
+END
+genconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/genconf.sh
+END
+unload_dhcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/unload_dhcp.sh
+END
+load_unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/load_unload.sh
+END
+hci_mib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/hci_mib
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/unload.sh
+END
+clean_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/clean_log.sh
+END
+scan_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/scan_test.sh
+END
+sta.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/sta.cfg.template
+END
+hostapd.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/hostapd.conf.template
+END
+sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/sta.sh
+END
+ssvcfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/ssvcfg.sh
+END
+hostapd.conf.NO_SEC.template
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/hostapd.conf.NO_SEC.template
+END
+check_con_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/check_con_ap.sh
+END
+hostapd.conf.TKIP.template
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/hostapd.conf.TKIP.template
+END
+dhcpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/dhcpd.conf
+END
+hostapd.conf.AES.template
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/hostapd.conf.AES.template
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/cli
+END
+scan_conn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/scan_conn.sh
+END
+unload_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/unload_ap.sh
+END
+ap-no_sec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/ap-no_sec.sh
+END
+ap-tkip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/ap-tkip.sh
+END
+ap-aes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/ap-aes.sh
+END
+redoall
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/redoall
+END
+cpu
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/cpu
+END
+scratch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100101/Nuvoton_N3292x/ssv_ampdu_v2_6227/script/scratch
+END

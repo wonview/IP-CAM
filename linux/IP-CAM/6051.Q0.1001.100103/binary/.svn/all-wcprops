@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary
+END
+ssv6051.ko
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/ssv6051.ko
+END
+ssv6200-sw.bin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/ssv6200-sw.bin
+END
+hostapd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/hostapd
+END
+wpa_supplicant
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/wpa_supplicant
+END
+wpa_cli
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/wpa_cli
+END

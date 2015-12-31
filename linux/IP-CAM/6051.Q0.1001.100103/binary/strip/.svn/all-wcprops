@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/strip
+END
+ssv6051.ko
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/strip/ssv6051.ko
+END
+ssv6051.ko_netfilter
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100103/binary/strip/ssv6051.ko_netfilter
+END

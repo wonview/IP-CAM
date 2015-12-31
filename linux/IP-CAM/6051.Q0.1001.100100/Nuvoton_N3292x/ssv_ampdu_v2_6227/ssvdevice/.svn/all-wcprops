@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice/Makefile
+END
+ssv_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice/ssv_cmd.c
+END
+ssv_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice/ssv_cmd.h
+END
+backup
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice/backup
+END
+ssvdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/8435/project/release/linux/IP-CAM/6051.Q0.1001.100100/Nuvoton_N3292x/ssv_ampdu_v2_6227/ssvdevice/ssvdevice.c
+END

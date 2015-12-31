@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./unload.sh
+./scratch
+./clean_log.sh
+./sta.sh
